@@ -7,3 +7,4 @@ This repository is a collection of Python programs that I have written in my att
   3.  factorial.py - interactive factorial calculator.
   4.  primes.py    - displays first 100 prime numbers.
   5.  credit.py    - validate credit cards using Luhn's algorithm.
+  6.  temperature.py - convert between celsius and fahrenheit.
