@@ -9,3 +9,4 @@ This repository is a collection of Python programs that I have written in my att
   5.  credit.py    - validate credit cards using Luhn's algorithm.
   6.  temperature.py - convert between celsius and fahrenheit.
   7.  slick.py - scrape the front page of slickdeals website and display top deals.
+  8.  movie.py - scrape the atom movie website to find what movies are playing in the local theater.
