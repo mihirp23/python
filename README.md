@@ -10,3 +10,4 @@ This repository is a collection of Python programs that I have written in my att
   6.  temperature.py - convert between celsius and fahrenheit.
   7.  slick.py - scrape the front page of slickdeals website and display top deals.
   8.  movie.py - scrape the atom movie website to find what movies are playing in the local theater.
+  9.  area_of_circle.py - calculate the area of circle based on radius provided by user.
