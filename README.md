@@ -12,3 +12,4 @@ This repository is a collection of Python programs that I have written in my att
   8.  movie.py - scrape the atom movie website to find what movies are playing in the local theater.
   9.  area_of_circle.py - calculate the area of circle based on radius provided by user.
  10.  num_of_days_lived.py - calculate the number of days since user's birth.
+ 11.  count_cases_of_chars.py - calculate the number of uppercase and lowercase letters entered by user.
