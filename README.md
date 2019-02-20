@@ -13,3 +13,4 @@ This repository is a collection of Python programs that I have written in my att
   9.  area_of_circle.py - calculate the area of circle based on radius provided by user.
  10.  num_of_days_lived.py - calculate the number of days since user's birth.
  11.  count_cases_of_chars.py - calculate the number of uppercase and lowercase letters entered by user.
+ 12.  div_by_7_and_not_mult_of_5.py - finds all numbers divisibly by 7 and not multiple of 5 in a given range. 
