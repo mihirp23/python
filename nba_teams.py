@@ -1,7 +1,9 @@
 #!/usr/bin/env python2
 
 ## Mihir Patel
-## 2/21/19
+## 2/23/19
+## Program that uses NBA API to print information
+## about all of the teams.
 ## File : nba_teams.py
 
 from nba_api.stats.static import teams as Teams

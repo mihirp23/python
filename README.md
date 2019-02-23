@@ -16,3 +16,4 @@ This repository is a collection of Python programs that I have written in my att
  12.  div_by_7_and_not_mult_of_5.py - finds all numbers divisibly by 7 and not multiple of 5 in a given range. 
  13.  word_frequency.py - calculate the frequence of each word in a sentence provided by user.
  14.  net_amount_in_bank.py - calculate the net amount in a bank account based on transactional log.
+ 15.  nba_teams.py - program that displays info of all NBA teams using NBA API.
