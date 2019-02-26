@@ -19,3 +19,4 @@ This repository is a collection of Python programs that I have written in my att
  15.  nba_teams.py - program that displays info of all NBA teams using NBA API.
  16.  even_or_odd.py - program that determines if number provided by user is even or odd.
  17.  does_dir_exist.py - a program that determines if the provided directory exists on the file system.
+ 18.  when_it_rains_it_pours.py - Google Foobar challenge.
